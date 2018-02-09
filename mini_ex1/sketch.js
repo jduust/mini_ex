@@ -22,7 +22,7 @@ function setup() {
 
 function draw() {
 //Overall background
-	background('sticker');
+	background('300');
 
 //Header text (h1)
 	h1.text('STICKER BOMB', 50, 90);
