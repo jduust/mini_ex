@@ -16,6 +16,8 @@ function setup() {
 function draw() {
 //background color
 background(150);
+//hides cursor
+noCursor();
 
 push();
 //image fade motion
