@@ -9,5 +9,7 @@
 ### temporality
 /ˌtɛmpəˈralɪti/
 noun
+
 **1.** the state of existing within or having some relationship with time.
+
 *"like spatial position, temporality is an intrinsic property of the object"*
