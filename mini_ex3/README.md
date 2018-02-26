@@ -24,7 +24,7 @@ I kind of like the word precariousness in connection to the Throbber, a word des
 *"In other words, data travels “via highly circuitous paths that could not be determined in advance” ".*
 **= the unpredictability**
  
-*"in the case of technological networks, the response may not include direct human intervention, and machines take charge of decisions and in real-time and responses in a forced duration." *
+*"in the case of technological networks, the response may not include direct human intervention, and machines take charge of decisions and in real-time and responses in a forced duration."*
 **= interdependency on the non-human.**
  
 
