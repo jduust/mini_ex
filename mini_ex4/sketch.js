@@ -13,7 +13,7 @@ var changer = {
 }
 
 //Weayther API (method: loadJSON)
-var api = 'http://api.openweathermap.org/data/2.5/weather?q=';
+var api = 'https://api.openweathermap.org/data/2.5/weather?q=';
 var units = '&units=metric';
 var apiKey = '&APPID=1fce233179cb8c7b9ff85fee876d49bf';
 
