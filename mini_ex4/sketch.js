@@ -77,8 +77,8 @@ function processRequest() {
 
 //loads data and starts ctracker + videoInput when button is clicked
 function loadData() {
-var fs = fullscreen();
-		fullscreen(!fs)
+// var fs = fullscreen();
+// 		fullscreen(!fs)
 // positioneret canvas
   cnv = createCanvas(windowWidth, windowHeight - 200);
   cnv.position(0, 100);
