@@ -17,5 +17,5 @@ I wanted to create a string of actions, that shows how a single click of the mou
 
 I have also experimented with face tracking using the webcam. Resulting in a ‘mask’ like face, drawn of ellipses following different tracking points of the face. The ellipses changes color depending on where they are shown on the screen. The program saves where your face has been, showing the path of your movements and results in colorful paintings. This is visualizing how your movements can be captured and stored.
 
-OBS. Some networks do not trust the weather API and it won’t work. (happened with phone network sharing)
+**OBS.** Some networks do not trust the weather API and it won’t work (happened with phone network sharing).
 
