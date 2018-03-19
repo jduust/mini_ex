@@ -1,6 +1,6 @@
 # MINI_EX5
 
-![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex5/Capture.PNG?raw=true)
+![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex6/Capture.PNG?raw=true)
 
 [LINK til programmet](https://rawgit.com/madsdixen/mini_ex/master/mini_ex5/index.html)
 
