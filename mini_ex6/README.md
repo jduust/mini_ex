@@ -1,4 +1,4 @@
-# MINI_EX5
+# MINI_EX6
 
 ![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex6/Capture.PNG?raw=true)
 
