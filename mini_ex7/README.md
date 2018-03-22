@@ -1,4 +1,4 @@
-# MINI_EX7
+# MINI_EX7 - THIS IS NOT A PIPE
 
 ![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex7/Capture.PNG?raw=true)
 
