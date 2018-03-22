@@ -6,5 +6,6 @@
 
 ## Code + Language
 
-**Libraries:** _RiTa.js_, _p5.Speech.js_
+**Libraries:** _RiTa.js_, _p5.Speech.js_...
+
 **note:** Works poorly on FireFox, use Chrome, edge or other preferred browser.
