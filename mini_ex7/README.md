@@ -1,4 +1,5 @@
 # MINI_EX7 - This is Not a Pipe
+In collaboration with [Mark Oliver Sandfeld Nielsen](https://github.com/MOSN97)
 
 ![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex7/Capture.PNG?raw=true)
 
