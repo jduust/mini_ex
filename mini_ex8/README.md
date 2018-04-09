@@ -5,7 +5,7 @@ In collaboration with [Jakob Duus Terkelsen](https://github.com/jduust)
 
 [LINK to the program](https://rawgit.com/madsdixen/mini_ex/master/mini_ex8/index.html)
 
-## Data manipulation and visualization
+## Request and Response
 **Inspiration:** Daniel Shiffman - Coding Challenge & Executing Uncertainties - Critical Software Thing:
 _David Gauthier, Audrey Samson, Eric Snodgrass, Winnie Soon and Magda Tyżlik-Carver_
 
