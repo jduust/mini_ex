@@ -47,7 +47,8 @@ function preload() {
 function setup() {
 	cnv = createCanvas(cWidth, cHeight);
 	cnv.position(windowWidth/2 - cWidth/2, windowHeight/2 - cHeight/2);
-	translate(width/2, height/2);
+  frameRate(10);
+  translate(width/2, height/2);
 	loadJSON(url, getData);
 	let cx = mercX(clon), cy = mercY(clat);
 //calculates csv data
