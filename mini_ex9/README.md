@@ -26,25 +26,10 @@ There is a lot of aspects that needs to be taking into consideration before crea
 
 **Idea:** Neuralizer of web content
 
-We want to mainly focus on the topic of code and language. 
+We mainly want to focus on the topic of code and language in the digital culture. We want to create a program that can manipulate what is visuably accesible to you, and often forced upon you while you are engaged in the digital world. We want to challange the lacking of control of the contemporary constant feeds and data streams that we experience on the web. This by creating something that affords the individual to choose and take control of what is shown to them and therefore make web content from external sources less powerful (ex. the brower extension AdBlock).
 
+Our ideas strives from a program that removes adjektives, to one that neutralizes genders or even one that can change negative words into positive ones. To make a program with functions like these, we will have to make a web extension that is able to examine the content of the current webpage and be able replace or manipulate it.
 
-Code and Language
-Reference: M.U.C - lover letter generator (1952, Christopher Strachey)
-Pseudo-randomness
-E-lit
-Discussion between machines
-Ændrer nyhedsartikler til at være positive eller upolitiske
-Gender neutralizing bot (GNB) 
-Digital fascism/Online activism
-Digital culture (Contemporary digital cultures)
-The copy-paste culture (easy sharing of far right content) - (ref - facebook demetricator)
-
-Neutralisering af web-indhold (nyheder, post eller lign.)
-Fjerner adjektiver?
-Erstatter køn og erstatter med neutrale ord som person, hen, osv.?
-Erstatter negative ord med positive?
-(evt. Set som en mulig browser exstention)
-
+The flowchart we have made for this idea is based on an algorithm that is supposed to get the news articles from a website, analyse the text for adjectives and then remove them. When the program as gone through the whole text it shal print the new and changed article.
 
 ![heeeeej](https://github.com/madsdixen/mini_ex/blob/master/mini_ex9/Flowchart%20final%20project.png?raw=true)
