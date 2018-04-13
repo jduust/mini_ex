@@ -1,4 +1,5 @@
-# MINI_EX8
+# MINI_EX8 Flowchart
+**Inspiration:** _Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56._
 
 ## Part 1
 
@@ -8,7 +9,18 @@
 
 [LINK to mini_ex7](https://github.com/madsdixen/mini_ex/tree/master/mini_ex7)
 
-### Thoughts on drawing flow charts
+### Thoughts on drawing flowcharts
+
+_"If we want to live with the machine, we must understand the machine, we must not
+worship the machine."_ **Norbert Wiener**'
+
+
+By creating a flowchart you can visualize ideas or structures of your program, or the program that you intend to make. It is a way to map the functions and executions of the program and you can picturize the iterations. Something as complex as an algorithm can be, can be broken down into elements and made graspable by visualizing the path of executions. As Ed Finn describes it, _"An algorithm is a recipe, an instruction set, a sequence of tasks to achieve a particular calculation or result, like the steps needed to calculate a square root or tabulate the Fibonacci sequence."_. By this notion, the flowchart can be described as the recipe, explaining the step by step path of tasks that need to be done. 
+
+The difficulties you encounter in creating a flowchart, is the sometimes enormous complexity that needs to be visually translated into somehting somewhat simplistic that can be easily understood. Therefore it is important to reflect upon what that needs to be left out and what that need to included. Here you encounter the problem, that the program/algorithm often relies of most of the aspects inlucded. _algorithmic thinking encodes the computationalist vision, the maximalist idea that all complex systems will eventually be made equivalent through computational representation._ (Ed Finn, p43). As i understand it, the algorithm is a somewhat naming and framing of a computational vision, it is an explanation of what needs to be done and how it is going to be done.
+
+
+
 
 ## part 2
 
